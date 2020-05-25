@@ -9,6 +9,22 @@ export const CELL_STATES = {
 };
 
 export const DEFAULT_ALIVE_PAIRS = [
+  /*
+  //carré
+  [1, 1],
+  [2, 1],
+  [1, 2],
+  [2, 2],
+
+  //grenouille
+  [7, 6],
+  [4, 7],
+  [6, 6],
+  [6, 7],
+  [5, 6],
+  [5, 7]
+  */
+
   [3, 4],
   [5, 6],
   [7, 1],
